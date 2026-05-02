@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/gitmanhimanshu/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Math
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/gitmanhimanshu/leetcode/tree/master/0788-rotated-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/gitmanhimanshu/leetcode/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
