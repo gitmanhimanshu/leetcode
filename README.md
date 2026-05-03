@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/gitmanhimanshu/leetcode/tree/master/0796-rotate-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gitmanhimanshu/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Bit Manipulation
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/gitmanhimanshu/leetcode/tree/master/0788-rotated-digits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/gitmanhimanshu/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
