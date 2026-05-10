@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gitmanhimanshu/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## String
 |  |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gitmanhimanshu/leetcode/tree/master/0061-rotate-list) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
