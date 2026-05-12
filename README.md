@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gitmanhimanshu/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## String
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
