@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/gitmanhimanshu/leetcode/tree/master/0796-rotate-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gitmanhimanshu/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/gitmanhimanshu/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gitmanhimanshu/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/gitmanhimanshu/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
