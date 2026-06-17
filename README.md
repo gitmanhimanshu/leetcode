@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/gitmanhimanshu/leetcode/tree/master/0796-rotate-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gitmanhimanshu/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/gitmanhimanshu/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/gitmanhimanshu/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/gitmanhimanshu/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/gitmanhimanshu/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
