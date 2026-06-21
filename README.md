@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
 | [1345-jump-game-iv](https://github.com/gitmanhimanshu/leetcode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gitmanhimanshu/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gitmanhimanshu/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/gitmanhimanshu/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/gitmanhimanshu/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
