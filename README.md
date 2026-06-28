@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/gitmanhimanshu/leetcode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gitmanhimanshu/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gitmanhimanshu/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gitmanhimanshu/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gitmanhimanshu/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gitmanhimanshu/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Breadth-First Search
 |  |
 | ------- |
