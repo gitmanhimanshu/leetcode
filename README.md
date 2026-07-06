@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gitmanhimanshu/leetcode/tree/master/0496-next-greater-element-i) |
+| [1288-remove-covered-intervals](https://github.com/gitmanhimanshu/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1345-jump-game-iv](https://github.com/gitmanhimanshu/leetcode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/gitmanhimanshu/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gitmanhimanshu/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/gitmanhimanshu/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gitmanhimanshu/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
