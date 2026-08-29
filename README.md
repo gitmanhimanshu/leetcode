@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/gitmanhimanshu/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1345-jump-game-iv](https://github.com/gitmanhimanshu/leetcode/tree/master/1345-jump-game-iv) |
 ## Enumeration
 |  |
@@ -147,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gitmanhimanshu/leetcode/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/gitmanhimanshu/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/gitmanhimanshu/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/gitmanhimanshu/leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
